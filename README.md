@@ -1,9 +1,9 @@
 # liuyangyan.github.io
 ### Hi there 👋
 
-Hello, I'm [Fusion Zhu](https://www.upwork.com/fl/huanqingzhu), A Full-stack development:
+Hello, I'm [Liuyang Yan](https://github.com/yly1111/), A front-end development:
 
-- 👨‍💼 I currently work in Shenzhen,China.
+- 👨‍💼 I currently work in zhenjiang,China.
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 I currently learn English.
 - 📺 I currently continue to make some [videos](https://www.ixigua.com/home/109529239261) about learning programming. 
 - 👯 I look for cooperation opportunities on [Upwork](https://www.upwork.com/fl/huanqingzhu).
